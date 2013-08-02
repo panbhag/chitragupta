@@ -1,0 +1,15 @@
+updating
+clone object in reference
+update references: when root object changes, the references also changes
+selected references: i want to only cache the title of the user. so only when the title changes it the original object, it should change
+deleting single
+find all
+where
+deleting with where
+updating with where
+bulk update
+bulk delete
+select
+indexing
+
+write tests
