@@ -32,7 +32,7 @@ Pongodb.generateId = function(type)
 Pongodb.add = function(record,type)
 {
 
-   database[type]['records'].push( _.clone(record) );
+   database[type]['records'].push(_.clone(record) );
 }
 
 
